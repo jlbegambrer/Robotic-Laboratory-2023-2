@@ -5,3 +5,5 @@ En este carpeta se encuentra los archivos sosportes del laboratorio 1 de la asig
 
 
 ## Solución Planteada
+
+## Programación de la trayectoria
