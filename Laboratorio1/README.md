@@ -28,9 +28,8 @@ Posteriormente se movio el robot a lo largo de la trayectoria para corregir erro
 
 
 
-Uploading simulacion.mp4…
 
-
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5a4ea90f-159b-4b56-b014-c76504067a74
 
 
 
