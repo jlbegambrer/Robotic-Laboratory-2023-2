@@ -27,4 +27,7 @@ Para programar la trayectoria se crearon una serie de puntos en todos los vertic
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/72324507/2e6930e8-2870-413f-b0a1-a0f0a04bc7f8)
 Posteriormente se movio el robot a lo largo de la trayectoria para corregir errores de singularidad, alcance y orientación de la herramienta. Una vez todo estuvo correcto se sincronizo la trayectoria en RAPID, incluyendo las instancias de la herramienta y el objeto de trabajo.
 
-<video src="recursos_multimedia/VideosLab1/resultadoCalibraci%C3%B3n.mp4" controls title="Title"></video>
+En el siguiente video se observa la calibración:
+
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/345fd0b0-d260-433f-a5a7-f42f3c1a1f4d
