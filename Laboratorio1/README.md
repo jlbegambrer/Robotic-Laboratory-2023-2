@@ -16,7 +16,7 @@ El diseño se modeló en el Software Inventor Profesional 2024, la herramienta d
 
 Luego, la impresión se realizó en el laboratorio de Mecatrónica de la Universidad Nacional de Colombia se realizó la impresión de las piezas, las cuales se pueden ver en la siguiente figura:
 
-
+![Alt text](recursos_multimedia/Impresion3DMArcador.png)
 
 ## Solución Planteada
 
