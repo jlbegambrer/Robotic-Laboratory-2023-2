@@ -7,7 +7,13 @@ Por otro lado,  se dialogó con el docente y compañeros/as de la asignaturas, l
 
 ![!\[Alt text\](image.png)](recursos_multimedia/anguloInclinacion.png)
 
+Adicionalmente, para tener en cuenta las variaciones del marcador en el eje z se colocó un resorte en el fondo de la herramienta.
+
+El diseño se modeló en el Software Inventor Profesional 2024, la herramienta diseñada se compone de dos  piezas,  la base fijo al robot ABB, con un eje de guia en las primeras espiras del resorte alineado a 60° respecto respecto al eje z de el portaherramientas; la otra pieza es un cilindro que sostiene el marcador; por otro lado, haciendo uso del calibrador pie de Rey, se modelado el marcador Edding; el ensable de la herramienta se presenta a continuación:
+
 ![Alt text](recursos_multimedia/Herramientadisenada.png)
+Luego, la impresión se realizó en el laboratorio de Mecatrónica de la Universidad Nacional de Colombia se realizó la impresión de las piezas, las cuales se pueden ver en la siguiente figura:
+
 
 
 ## Solución Planteada
