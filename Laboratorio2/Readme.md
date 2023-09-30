@@ -1,4 +1,0 @@
-#Laboratoio 2
-##Descripción de la solución planteada
-
-##Resultad
