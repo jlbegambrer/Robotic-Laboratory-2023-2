@@ -5,6 +5,15 @@ Con la experiencia del laboratorio 1, se crearon las rutinas de trabajo, definie
 Además se crearon 2 entradas digitales y 2 salidas digitales que posteriomente se renombraron según el nombre indicado en el Flexpendant, denominadas DI_01, DI_02 y DO_03, del robot industrial del laboratorio del LABSIR.
 
 
+Por otro lado, dentro de la solución planteada se crean las trayectorias indeoendientes con los punto de cada letra a dibujar, además la posición de Home y la del mantenimiento para el cambio de la herramienta.
+
+Luego, se define un main  o path en el cual se colocan las trayectorias con una serie instrucciones que se activan con las entradas digitales las cuales dan inicio a la rutina de trabajo y/o el movimiento para el cambio de la herramienta.
+Adicionalmente, se define  el set y off para una salida digital con el fin de mantener en alto una salida digital para un LED. Durante el movimiento hacia el  Home y  el mantenimiento se implementaron los comandos de MoveJ y para la rutina de trabajo MoveL a una velocidad.
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/47c19c53-1003-4273-966b-d9c16a33a786)
+
+Se muestra el segmento de código para el mantenimiento o cambio de la herramienta:
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/ee5cb00d-11d9-451b-8072-d5c69b2b0abe)
 
 ## Simulación en Robot Studio
 
