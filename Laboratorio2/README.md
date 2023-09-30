@@ -30,16 +30,18 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/e05f2be
 
 
 
-<video src="Archivos%20Multimedia/Simulaci%C3%B3n%20Robot%20StudioFrag1/Simulaci%C3%B3n%20Robot%20StudioFrag1.mp4" controls title="Video Simulación"></video>
-
-
 ## Resultado del laboratorio:
-En el siguiente video se observa los resultados en el laboratorio:
+Por medio de los dos videos que se muestra a continuación se expone la implementación en el Robot:
+
+Primero, se muestra la prueba en vacio sin herramienta, en la cual se prueba el funcionamiento de las entradas digitales.
 
 
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/2f096944-9076-4a17-81c9-195d10d110d5
 
-https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/eb670fb0-7fd7-436b-af19-bcd058a8efe1
+Luego , en el siguiente video se coloca la herramienta, en este se puede se puede observar el uso de las dos entradas digitales, el botón dos para mantenimiento y el botón 1 para el home.
 
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/ad3d934e-fd5b-4d13-8e69-27523106e34f
 
 
 
