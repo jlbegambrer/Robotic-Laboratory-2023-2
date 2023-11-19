@@ -73,11 +73,123 @@ sub = rossubscriber('/turtle1/pose','turtlesim/Pose')
  para despues ser enviado.
 
 --------------------------------------------------------------
- 
-## Metodología:
-sd
-##  Pruebas:
 
+
+## Python
+ 
+ Para esta sección del laboratorio fue necesario crear un script dentro del paquete _hello_turtle_ el cual permitiera operar una tortuga del paquete _turtlesim_ con el teclado. El script realizado tiene por nombre [myTeleopKey.py](./python/myTeleopKey.py)
+
+### Código
+
+Primero se importan las librerías necesarias para correr los nodos de ROS y para capturar las teclas presionadas.
+```python
+import rospy
+from geometry_msgs.msg import Twist
+from turtlesim.srv import TeleportAbsolute, TeleportRelative
+from std_srvs.srv import Empty
+import termios, sys, os
+from numpy import pi
+```
+
+
+Posteriormente, delcaramos como constantes tanto el topic para publicar la velocidad, como los servicios para poder ubicar la tortuga en el centro o girarla 180°.
+```python
+cmd_vel_topic = '/turtle1/cmd_vel'
+teleport_ab = '/turtle1/teleport_absolute'
+teleport_rel = '/turtle1/teleport_relative'
+```
+
+La función `getkey()` (obtenida en este enlace: [http://python4fun.blogspot.com/2008/06/get-key-press-in-python.html](http://python4fun.blogspot.com/2008/06/get-key-press-in-python.html)), se utiliza para capturar la tecla presionada por el usuario.
+
+```python
+def getkey():
+    fd = sys.stdin.fileno()
+    old = termios.tcgetattr(fd)
+    new = termios.tcgetattr(fd)
+    new[3] = new[3] & ~TERMIOS.ICANON & ~TERMIOS.ECHO
+    new[6][TERMIOS.VMIN] = 1
+    new[6][TERMIOS.VTIME] = 0
+    termios.tcsetattr(fd, TERMIOS.TCSANOW, new)
+    c = None
+    try:
+        c = os.read(fd, 1)
+    finally:
+        termios.tcsetattr(fd, TERMIOS.TCSAFLUSH, old)
+    return c
+```
+
+
+Dependiendo de la tecla que se presione, se realizará un procedimiento diferente:
+ -  Se debe mover hacia adelante y hacia atrás con las teclas W y S
+ -  Debe girar en sentido horario y antihorario con las teclas D y A
+ -  Debe retornar a su posición y orientación centrales con la tecla R
+ -  Debe dar un giro de 180° con la tecla ESPACIO
+
+Las funciones `pubVel()` y `teleport()` se declaran como funciones de ayuda para enviar los mensajes al tópico de velocidad y para llamar a los servicios necesarios para teletransportar la tortuga.
+
+```python
+
+def get_action(): 
+    key = getkey()
+    if key == b'w' or key == b'W':
+        pubVel(1,0)
+    elif key == b's' or key == b'S':    
+        pubVel(-1,0)
+    elif key == b'd' or key == b'D':
+        pubVel(0,-1)
+    elif key == b'a' or key == 'A':
+        pubVel(0,1)
+    elif key == b'r' or key == 'R':
+        teleport('abs')
+    elif key == b' ':
+        teleport('rel')
+```
+
+Definimos la función `pubVel()` con dos parámetros: `linear` y `angular`, valores que corresponden a la velocidad que asignaremos a la tortuga. 
+
+En esta primera línea, indicamos que nuestro nodo va a publicar al tópico `/turtle1/cmd_vel` usando un tipo de mensaje _Twist_.
+```python
+def pubVel(linear, angular):
+    pub = rospy.Publisher(cmd_vel_topic, Twist, queue_size=10)
+```
+
+Luego, declaramos el mensaje como un mensaje de tipo _Twist_ y le asignamos los valores correspondientes a la velocidad lineal y la velocidad angular. Por último, publicamos el mensaje.
+```python
+    message = Twist()
+    message.linear.x = linear
+    message.angular.z = angular
+    pub.publish(message)
+```
+
+En la función `teleport()`, llamaremos a los servicios correspondientes para lograr que la tortuga regresa a su lugar de inicio o que gire 180°. 
+
+En el primer caso, llamamos al servicio `/turtle1/teleport_absolute`, con el cual podemos mover la tortuga a un lugar indicado por tres parámetros: `x`, `y` y `theta`. Estos valores son los mismos que se obtienen al iniciar el nodo de turtlesim. 
+
+Además, también se llama al servicio `clear`, con el cual se limpia el fondo de la ventana del turtlesim.
+```python
+def teleport(key):
+    if key == 'abs':
+        rospy.wait_for_service(teleport_ab)
+        try:
+            teleport_absolute = rospy.ServiceProxy(teleport_ab, TeleportAbsolute)
+            teleport_abs_result = teleport_absolute(5.544445,5.544445,0)
+
+            rospy.wait_for_service('/clear')
+            clearTrajec = rospy.ServiceProxy('/clear', Empty)
+            Reset = clearTrajec()
+        except rospy.ServiceException as e:
+            print(str(e))
+```
+En el segundo caso, se llama al servicio `/turtle1/teleport_relative`, el cual mueve la tortuga una distancia lineal y angular determinadas con respecto a la posición actual de la torguga. Como queremos que gire 180°, la distancia lineal es 0 y la angular es pi.
+```python
+    elif key == 'rel':
+        rospy.wait_for_service(teleport_rel)
+        try:
+            teleport_relative = rospy.ServiceProxy(teleport_rel, TeleportRelative)
+            teleport__relative_result = teleport_relative(0,pi)
+        except rospy.ServiceException as e:
+            print(str(e))
+```
 sds
 
 ## Conclusiones:
