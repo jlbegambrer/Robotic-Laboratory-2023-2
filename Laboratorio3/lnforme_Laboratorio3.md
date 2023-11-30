@@ -3,6 +3,19 @@
 - Jonathan Leonardo Begambre Rodríguez
 
 ## Metodología:
+El desarrollo del laboratorio se realizó el procedimiento de instalación de una máquina virtual  la cual se puede consultar en el sisgueinte link: (https://la.mathworks.com/support/product/robotics/ros2-vm-installation-instructions-v9.html).
+El cual se puede resumir como sigue:
+ 
+ - Descargue el paquete de software VMware® Player (licencia).
+- Instale VMware Player ejecutando el instalador del paquete con privilegios administrativos.
+- Descargue el archivo que contiene la máquina virtual.
+- Descomprima el archivo en una ubicación de su disco duro.
+- Inicie VMware Player. En VMware Player, presione Abrir una máquina virtual.
+- Busque la ubicación de la imagen de Ubuntu, seleccione el archivo ros_noetic_foxy_gazebov11.vmx y presione OK.
+- La máquina virtual ahora está agregada a su biblioteca.
+- En VMware Player, inicie la máquina virtual. Presione Lo copié si se abre una ventana que le pregunta si copió o movió la máquina virtual.
+
+
 Dentro de la metodologia seguida se encontró un repositorio (https://github.com/fegonzalez7/rob_unal_clase2). El cual ste permitió configurar e instalar el programa de manera correcta en los computadores.
 
 En una primera terminal se corre el comando “roscore” lo cual nos permite inicializar ROS y se le dice al sistema que una instancia de ROS se va a estar ejecutando. En la segunda terminal se le indica a esa instancia de ROS que se va a correr el programa de “turtlesim”, específicamente, un nodo que muestra mediante una interfaz gráfica la ubicación de una tortuga y que permanentemente esta enviando su ubicación y orientación; de por si hasta este punto no es posible interactuar con la tortuga. En la tercera terminal se ejecuta un nodo el cual es capaz de justamente esto, “turtle_teleop_key” permite registrar entradas de teclado para enviarle instrucciones de movimiento a la tortuga que se pueden ver mediante la interfaz gráfica. 
