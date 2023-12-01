@@ -22,9 +22,11 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
 A continuación se muestra la prueba con los diferentes Motores para calibrar los rangos:
 
 Prueba de Regreso a Home:
+
 <video src="VideosEditados/PruebaMovHomePose2.mp4" controls title="Title"></video>
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5eefbca0-9850-4951-bca9-bc1229fb4ac9
+
 Prueba de Home a Pose2:
  <video src="VideosEditados/PruebaMovHomePose2.mp4" controls title="Title"></video>
  
