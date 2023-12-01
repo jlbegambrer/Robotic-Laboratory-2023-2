@@ -9,11 +9,8 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
  Posteriormente, se  realizó el procedimiento para obtener los parámetros de Denavit Hartenberg como se muestra a continuación:
 
 ![Alt text](Multimedia/imagenes/DHFigura.png)
-<div>
-<p align = 'center'>
-<img src=".Multimedia/imagenes/DHFigura.png" alt="Home" width="500px">
-</p>
-</div>
+ Luego se verifica con Matlab y se genera la tabla de DH como se muestra a contiuación:
+ ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/401b4194-9842-4d27-a9ec-87f3c8bfdff4)
 
 
 
@@ -64,9 +61,6 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b9e998f
 
 
 Prueba de las 5 Pases:
-
-
-
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5422f39a-9dac-44e6-90f6-35426a52d6ff
 
 <video src="Multimedia/Prueba%205%20posesv1.mp4" controls title="Title"></video>
