@@ -58,7 +58,18 @@ Función que mueve los 4 servos, se muestra el encabezado a continuación:
 ![Alt text](Multimedia/imagenes/picturesCodes/Move4Motors.png)
 
 ## Poses Generadas en Matlab:
+Para las poses se usó el serial link y se realiza la configuración de cada una de las posiciones, esto se muestra a continuación: Cabe destacar que las poses 5 y 4  se les hizo un ajuste para evitar que se golpeara con el suelo, se cambió el valor de 55 por 35 en q3.
+Los cuales quedaría así:
 
+
+1. 0, 0, 0, 0, 0. (Home)
+2. 25, 25, 20, -20, 0.
+3. -35,35, -30, 30, 0.
+4. 85, -20, 35, 25, 0.
+5. 80, -35, 35, -45, 0
+
+
+Las poses se muestran a continuación: 
  
 ### Pose de Home en Matlab : 
 ![Alt text](Multimedia/imagenes/HomePoseMatlab.jpg)
@@ -100,11 +111,6 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/fe56023
 Prueba de Pose 3 a Pose 4: 
 
 <video src="VideosEditados/PruebaMovPose3aPose4.mp4" controls title="Title"></video>
-
-
-
-https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/bf4279b1-45a2-4e16-bd37-26fbe5003b80
-
 
 
 Prueba de Pose 4 a Pose 5: 
