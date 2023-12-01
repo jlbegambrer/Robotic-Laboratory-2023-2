@@ -39,3 +39,7 @@ Paso 5:
 
 
 
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/cea10e54-a675-4fbd-9808-dc55e62e34b2
+
+
