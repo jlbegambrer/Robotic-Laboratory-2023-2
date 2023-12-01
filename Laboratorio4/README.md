@@ -30,10 +30,36 @@ En esta sección se mostrará los códigos y las principales funciones los cuale
 
 ![Alt text](Multimedia/imagenes/picturesCodes/LogicaLab1Connect2.png)
 
+#### Movimiento de Poses:
 
+Se muestra el fragmento del llamado a Mov2pose para realizar las diferentes poses en el Robot PhantomX.
+
+![Alt text](Multimedia/imagenes/picturesCodes/LogicaLab1Poses3.png)
+
+
+## Funciones Implementadas en el Laboratorio:
+###  Función Mov2Pose
+Se muestra el encabezado de la función Mov2Pose con los argumentos y salidas de la función.
+
+![Alt text](Multimedia/imagenes/picturesCodes/Move2Pose.png)
+
+### Connect PhantomX - Función Usada:
+Función usada para establecer la conexión con el Robot PhantomX 
+![Alt text](Multimedia/imagenes/picturesCodes/ConnetPhantomX.png)
+
+###  Disconnect PhantomX :
+ 
+ Función usada para finalizar la conexión con el Robot PhantomX.
+![Alt text](Multimedia/imagenes/picturesCodes/DisconnetPhantomX.png)
+
+### Mov4Motors:
+Función que mueve los 4 servos, se muestra el encabezado a continuación:
+
+![Alt text](Multimedia/imagenes/picturesCodes/Move4Motors.png)
 
 ## Poses Generadas en Matlab:
 
+ 
 ### Pose de Home en Matlab : 
 ![Alt text](Multimedia/imagenes/HomePoseMatlab.jpg)
 
