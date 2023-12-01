@@ -101,6 +101,12 @@ Prueba de Pose 3 a Pose 4:
 
 <video src="VideosEditados/PruebaMovPose3aPose4.mp4" controls title="Title"></video>
 
+
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/bf4279b1-45a2-4e16-bd37-26fbe5003b80
+
+
+
 Prueba de Pose 4 a Pose 5: 
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b9e998fc-d8e9-4fa9-bcff-bfe0bb94da13
