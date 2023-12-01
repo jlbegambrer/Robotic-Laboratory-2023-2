@@ -18,6 +18,18 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
 
 ## Poses Generadas en Matlab:
 
+### Pose de Home en Matlab : 
+![Alt text](Multimedia/imagenes/HomePoseMatlab.jpg)
+
+#### Pose 2 :
+![Alt text](Multimedia/imagenes/Pose2Matlab.jpg)
+
+### Pose 3 :
+![Alt text](Multimedia/imagenes/Pose3Matlab.jpg)
+
+### Pose 4:
+
+![Alt text](Multimedia/imagenes/Pose4Matlab.jpg)
 
 ## Videos del Robot Alcanzando las posiciones deseadas :
 A continuación se muestra la prueba con los diferentes Motores para calibrar los rangos:
