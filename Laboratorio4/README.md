@@ -8,8 +8,12 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
 ![Alt text](Multimedia/imagenes/MedidasEslabones.png)
  Posteriormente, se  realizó el procedimiento para obtener los parámetros de Denavit Hartenberg como se muestra a continuación:
 
-
 ![Alt text](Multimedia/imagenes/DHFigura.png)
+<div>
+<p align = 'center'>
+<img src=".Multimedia/imagenes/DHFigura.png" alt="Home" width="500px">
+</p>
+</div>
 
 
 
@@ -28,11 +32,6 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5eefbca
 Prueba de Home a Pose2:
 
  <video src="VideosEditados/PruebaMovHomePose2.mp4" controls title="Title"></video>
-
-
-
-https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/dafb70fa-d31d-454b-ba2f-651f8db3ffd1
-
 
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8e7ff75d-c301-429e-8c17-d6b4fdb05dac
