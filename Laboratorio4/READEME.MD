@@ -10,18 +10,15 @@ Prueba de un Motor:
 
 
 Prueba de Home a Pose2:
-
-<video src="Multimedia/PruebMovDeHomeaPose2.mp4" controls title="Title"></video>
+<video src="VideosEditados/PruebaMovHomePose2.mp4" controls title="Title"></video>
 Prueba de Pose 2 a Pose 3: 
-
-<video src="Multimedia/PruebaMovPose2aPose3.mp4" controls title="Title"></video>
+<video src="VideosEditados/PruebaMovPose2aPose3.mp4" controls title="Title"></video>
 
 Prueba de Pose 3 a Pose 4: 
-
-<video src="Multimedia/PruebaMovPose3aPose4.mp4" controls title="Title"></video>
+<video src="VideosEditados/PruebaMovPose3aPose4.mp4" controls title="Title"></video>
 Prueba de Pose 4 a Pose 5: 
 
-<video src="Multimedia/PruebaMovPose4aPose5.mp4" controls title="Title"></video>
+<video src="VideosEditados/PruebaMovPose4aPose5.mp4" controls title="Title"></video>
 
 Paso 5:
 <video src="Multimedia/Prueba%205%20poses.mp4" controls title="Title"></video>
