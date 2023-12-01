@@ -15,6 +15,22 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
  
  ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/771d20a8-8986-408b-a133-484af07cb667)
 
+## Códigos en Matlab Implementados:
+
+En esta sección se mostrará los códigos y las principales funciones los cuales pueden ser verificados en la llamda "Laboratorio4_Codigos".
+
+
+### Código de la estructura  - L+ogica del proceso:
+#### Configuración Inicial del código de la lógica general del Laboratorio:
+
+
+![Alt text](Multimedia/imagenes/picturesCodes/LogicaLab1Config.png)
+
+#### Fragmento del código que conecta al PhantomX:
+
+![Alt text](Multimedia/imagenes/picturesCodes/LogicaLab1Connect2.png)
+
+
 
 ## Poses Generadas en Matlab:
 
