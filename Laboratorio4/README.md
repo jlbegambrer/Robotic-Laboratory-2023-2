@@ -11,6 +11,10 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
 ![Alt text](Multimedia/imagenes/DHFigura.png)
  Luego se verifica con Matlab y se genera la tabla de DH como se muestra a contiuación:
  ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/401b4194-9842-4d27-a9ec-87f3c8bfdff4)
+ Diagrama en Matlab del Robot Phantom:
+ 
+ ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/771d20a8-8986-408b-a133-484af07cb667)
+
 
 
 
