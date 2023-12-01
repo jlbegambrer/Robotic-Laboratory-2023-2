@@ -31,6 +31,11 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
 
 ![Alt text](Multimedia/imagenes/Pose4Matlab.jpg)
 
+### Pose 5:
+
+![Alt text](Multimedia/imagenes/Pose5Matlab.jpg)
+
+
 ## Videos del Robot Alcanzando las posiciones deseadas :
 A continuación se muestra la prueba con los diferentes Motores para calibrar los rangos:
 
@@ -65,3 +70,35 @@ Prueba de las 5 Pases:
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5422f39a-9dac-44e6-90f6-35426a52d6ff
 
 <video src="Multimedia/Prueba%205%20posesv1.mp4" controls title="Title"></video>
+
+##  Comparación de poses Digitales Vs del Phantom:
+ 
+###  Comparación de Pose de Home: Imágen del Robot Real Vs Digital. 
+
+![Alt text](Multimedia/imagenes/Comparacion1PoseHome.png)
+
+###  Comparación de Pose 2: Imágen del Robot Real Vs Digital. 
+
+![Alt text](Multimedia/imagenes/Comparacion2Pose2.png)
+
+###  Comparación de Pose 3: Imágen del Robot Real Vs Digital. 
+
+![Alt text](Multimedia/imagenes/Comparacion3Pose3.png)
+
+###  Comparación de Pose 4: Imágen del Robot Real Vs Digital. 
+
+![Alt text](Multimedia/imagenes/Comparacion4Pose4.png)
+
+###  Comparación de Pose 5: Imágen del Robot Real Vs Digital. 
+
+![Alt text](Multimedia/imagenes/Comparacion5Pose5.png)
+
+
+
+
+
+
+
+
+
+
