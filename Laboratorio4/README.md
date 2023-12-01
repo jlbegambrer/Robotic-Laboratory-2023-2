@@ -4,8 +4,13 @@
 
 
 
+
 ![Alt text](Multimedia/imagenes/DHFigura.png)
 
+
+<video src="VideosEditados/PruebaMovHomePose2.mp4" controls title="Title"></video>
+
+<video src="VideosEditados/PruebaMovPose4aPose5.mp4" controls title="Title"></video>
 
 ## Pruebas con Servomotores:
 A continuación se muestra la prueba con los diferentes Motores para calibrar los rangos:
