@@ -18,7 +18,7 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
 
 
 
-## V´ıdeos del Robot Alcanzando las posiciones deseadas :
+## Videos del Robot Alcanzando las posiciones deseadas :
 A continuación se muestra la prueba con los diferentes Motores para calibrar los rangos:
 
 Prueba de Regreso a Home:
