@@ -46,3 +46,7 @@ Paso 5:
 <video src="Multimedia/Prueba%205%20poses.mp4" controls title="Title"></video>
 
 
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/cea10e54-a675-4fbd-9808-dc55e62e34b2
+
+
