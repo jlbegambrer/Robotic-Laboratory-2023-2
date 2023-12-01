@@ -16,6 +16,7 @@ Para iniciar con este laboratorio se realizó la medición del robot , para obte
  ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/771d20a8-8986-408b-a133-484af07cb667)
 
 
+## Poses Generadas en Matlab:
 
 
 ## Videos del Robot Alcanzando las posiciones deseadas :
