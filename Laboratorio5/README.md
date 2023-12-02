@@ -1,4 +1,18 @@
-# Informe de laboratorio
+# Informe de laboratorio:
+Integrantes del equipo: 
+ - Jonathan Leoanrdo Begambre Rodríguez.
+ - Carlos Caucalí
+
+
+## Solución planteada:
+
+Para iniciar se puede reutilizar la información del laboraorios anterior con respecto a las medidas que se muestran en la siguiente  figura: 
+
+![Alt text](<Archivos Multimedia/Imagenes/MedidasEslabones.png>)
+
+De menera similar se presenta el diagrama de DH para su análisis:
+
+![Alt text](<Archivos Multimedia/Imagenes/InverseKinematics/DHFigura.png>)
 
 
 ## Cinemática Inversa:
