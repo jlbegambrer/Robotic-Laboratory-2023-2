@@ -1,4 +1,4 @@
-# Informe de laboratorio  5  Cinem´atica Inversa - Robot Phantom X:
+# Informe de laboratorio  5  Cinemática Inversa - Robot Phantom X:
 Integrantes del equipo: 
  - Jonathan Leoanrdo Begambre Rodríguez.
  - Carlos Caucalí
