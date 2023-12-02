@@ -42,7 +42,7 @@ Los códigos  creados y usados para este laboratorio se pueden verificar en la c
 
 ## Funciones Implementadas en Matlab:
 
-### Función Principal - Logica Laboratorio 5:
+### Función Principal - Lógica Laboratorio 5:
 #### Encabezado y Configuración Inicial:
 
 ![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_1.png>)
