@@ -38,7 +38,9 @@ El procedimiento se basa en buscar  valores del efector final en posiciones dete
 ![Alt text](<Archivos Multimedia/Imagenes/InverseKinematics/CinematicaInversa5.png>)
 
 ## Códigos:
+Los códigos  creados y usados para este laboratorio se pueden verificar en la carpeta denomidas "Codigos Matlab" adjunto a este repositorios,  a continuación de mostrará fragmentos de las principales funciones:
 
+### 
 
 ## Pruebas de Funcionamiento
 ### Pruebas de para creación de Líneas:
