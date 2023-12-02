@@ -1,5 +1,4 @@
 %% Initial configurations
-
 clc;clear;
 
 % Protocol version

@@ -40,7 +40,48 @@ El procedimiento se basa en buscar  valores del efector final en posiciones dete
 ## Códigos:
 Los códigos  creados y usados para este laboratorio se pueden verificar en la carpeta denomidas "Codigos Matlab" adjunto a este repositorios,  a continuación de mostrará fragmentos de las principales funciones:
 
-### 
+## Funciones Implementadas en Matlab:
+
+### Función Principal - Logica Laboratorio 5:
+#### Encabezado y Configuración Inicial:
+
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_1.png>)
+
+#### Parte de Conexión al puerto, Habilitación y cambio del valor del torque en cada motor, obtención de posiciones angulares:
+
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_2.png>)
+
+#### Movimientos de Servomotores:
+
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_3.png>)
+
+#### Movimiento del Robot - Movimiento en línea Recta
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_4.png>)
+
+
+#### Elaboración de Circunferencias: 
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_5.png>)
+
+#### Ciclo para movimiento linealmente del Robot:
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_6.png>)
+
+
+#### obtención de posición - Cinemática Directa:
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/LogLab5_7.png>)
+
+
+### Funciones Implementadas:
+#### Función del Gripper: 
+
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/CodeGripper.png>)
+
+
+####  Función de la Cinemática Inversa:
+Función para usar la cinemática inversa para el movimiento del Robot.
+![Alt text](<Archivos Multimedia/Imagenes/CodesMatlab/CodeCinematikInversa.png>)
+
+#### Otras Funciones:
+En este laboratorios también se usaron funciones implementadas de la librería de Dynamixel  para conectar y desconectar el phantomX, entre otras que se encuentran en el repositorio.
 
 ## Pruebas de Funcionamiento
 ### Pruebas de para creación de Líneas:
