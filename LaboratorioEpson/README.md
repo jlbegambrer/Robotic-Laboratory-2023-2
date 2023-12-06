@@ -13,15 +13,12 @@ No olviden que todos deberán subir la actividad para que esta cuente.
 
   #  Videos de Simulación:
 
-## Prueba de Baja Potencia:
-
-  
-https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b836c533-6242-40b3-9c35-0834e8424449
-
-## Prueba con alta potencia:
-
-
   https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
+
+
+
+
+
 
 
 
@@ -29,7 +26,16 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b836c53
   # Videos de Prueba:
 
 
+
+
+## Prueba de Baja Potencia:
+
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/a136f5ed-a9bd-4eb0-9f6a-992a12d68432
+  
+## Prueba con alta potencia:
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b836c533-6242-40b3-9c35-0834e8424449
+
 
 
   
