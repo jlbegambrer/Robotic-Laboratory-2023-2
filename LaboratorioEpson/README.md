@@ -9,6 +9,14 @@ Dentro de la solución que se planteó se inició con la realización del códig
 
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/39a003c8-c5b3-40a2-8a29-5fd213bb673e)
 
+Los objetivos de esta práctica se pueden observar en la siguiente imágen:
+
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/3780b487-71e8-43c1-b4f0-f46b628454db)
+
+
+Para realiza el código, previamente se descargó e instaló el software para ejecutar las instrucciones  y programar el robot.  
+
 
 
   #  Videos de Simulación:
