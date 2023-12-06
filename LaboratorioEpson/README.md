@@ -5,10 +5,10 @@ Integrantes del equipo:
 - Jonathan Leonardo Begambre Rodríguez.
   # Descripción de la Solución planteada.
 
-  
-una breve descripción de la solución empleada en el laboratorio, mostrando los videos de sus resultados y toda la información que deseen compartir al respecto. Creen un solo repositorio por grupo de trabajo, y suban en el entregable los nombres de su grupo, y el enlace al readme del repositorio creado.
+Dentro de la solución que se planteó se inició con la realización del código  antes de ir a la empresa Control de Movimiento, esto se observó en la Guía Práctica EPSON RC + 7.0 - Básica, a continuación se presenta el encabezado:
 
-No olviden que todos deberán subir la actividad para que esta cuente.
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/39a003c8-c5b3-40a2-8a29-5fd213bb673e)
+
 
 
   #  Videos de Simulación:
