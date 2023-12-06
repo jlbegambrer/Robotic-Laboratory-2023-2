@@ -1,4 +1,4 @@
-# Informe del lanoratorio Epson:
+# Informe del laboratorio Epson:
 
 Integrantes del equipo:
 - Carlos Caucalí.
