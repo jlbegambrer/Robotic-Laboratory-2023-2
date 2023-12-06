@@ -10,6 +10,19 @@ una breve descripción de la solución empleada en el laboratorio, mostrando los
 
 No olviden que todos deberán subir la actividad para que esta cuente.
 
-  # Videos de Prueba
-  #  Videos de Simulación
+
+  #  Videos de Simulación:
+
+  
+  https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
+
+
+
+
+  # Videos de Prueba:
+
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/a136f5ed-a9bd-4eb0-9f6a-992a12d68432
+
+
   
