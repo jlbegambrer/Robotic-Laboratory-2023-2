@@ -54,14 +54,14 @@ Esta fucnión se encargaba de realizar el movimiento en lso pallet externos del 
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8cbfae09-9ce7-41d1-9091-0e32d4d47c61)
 
 
-  #  Videos de Simulación:
-  Una vez que se implementó el código se procedió a realizar un video con la simulación de los movimientos del robot, el cual se puede visualizar en la siguiente multimedia: 
+#  Videos de Simulación:
+Una vez que se implementó el código se procedió a realizar un video con la simulación de los movimientos del robot, el cual se puede visualizar en la siguiente multimedia: 
 
-  https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
-
-  # Desarrollo de la Visita en la Empresa - Control de Movimiento:
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
 
 
+# Desarrollo de la Visita en la Empresa - Control de Movimiento:
+Durante el desarrollo de la visita a la empresa control de Movimiento, se recibió la capacitación y apoyo de un egresado de la Unal que trabaja en dicha empresa, el cual nos enseñó las princiaples características de Robot SCARA - Epson, el cual tiene integrado los driver, microcontroladores en el Robot, lo que lo hace muy compacto y versátil; luego, se pasó a definir el espacio de trabajo del Robot, para evitar accidentes con el robot, es decir se delimitó las posiciones máximas  al cual el robot podrá moverse, esto para evitar que chocara las paredes del edificio.
 
 
 ## Videos de la experimentación a Baja Potencia con el Robot SCARA:
