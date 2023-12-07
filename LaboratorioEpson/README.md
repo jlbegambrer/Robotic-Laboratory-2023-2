@@ -49,21 +49,15 @@ En esta función se realiza el paletizado en S como se puede observar en la sigu
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/d057f13d-f179-48ac-a07e-7953cccdab92)
 
 ## Función Paletizado_externo:
+Esta fucnión se encargaba de realizar el movimiento en lso pallet externos del movimiento general, se puede observar a continuación: 
 
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8cbfae09-9ce7-41d1-9091-0e32d4d47c61)
 
 
   #  Videos de Simulación:
+  Una vez que se implementó el código se procedió a realizar un video con la simulación de los movimientos del robot, el cual se puede visualizar en la siguiente multimedia: 
 
   https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
-
-
-
-
-
-
-
-
 
   # Videos de Prueba:
 
