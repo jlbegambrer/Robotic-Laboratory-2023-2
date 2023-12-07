@@ -74,7 +74,7 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b836c53
 # Conclusiones:
 
 De laboratorio y Visita se puede concluir los siguientes aspectos:
-- Se logró aplicar código a un robot industrial y conocer el lenguaje SPEL + para los robot Epson, con implementación de diferentes rutinas de paletizado.
+- Se logró aplicar código a un robot industrial y conocer el lenguaje SPEL + para los robots Epson, con implementación de diferentes rutinas de paletizado, uso de comandos como Wait, Go, Move, Pallet, Jump, entre otros.
 - Gracias a la visita se logró conocer aplicaciones industriales de los Robots Scara, así como el acercamiento a la industria ayudó a experimentar uso reales de los robot actualmente y el potencial de nuestra profesión. 
 
   
