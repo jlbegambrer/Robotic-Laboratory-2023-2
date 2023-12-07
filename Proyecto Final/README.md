@@ -66,13 +66,19 @@ En la siguiente rutina se realiza los primeros movimientos del Robots:
 
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/9d7ad35a-6237-467e-b621-93d0650c5033)
 
+
+# Entradas y Salidas para el Robot:
+## Entradas para el Robot:
+![entradasRobotStudio](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/6549bd79-3d5c-4ad6-aa3c-d4dd6573b11a)
+
+## Salidas para el Robot:
+![SalidasRobotStudio](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/c5f23645-d56b-4b59-9b2b-14f2e8b07283)
+
+
 # Videos Pruebas de simulación:
 
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5706feee-e399-45de-a366-1c5b6a419f49
-
-
-# Simulación Final
 
 # Video Presentación del proyecto:
 El video de la presentación Final se puede ver en el siguiente Link:
