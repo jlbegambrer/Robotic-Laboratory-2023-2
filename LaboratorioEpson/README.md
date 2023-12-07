@@ -59,16 +59,16 @@ Esta fucnión se encargaba de realizar el movimiento en lso pallet externos del 
 
   https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
 
-  # Videos de Prueba:
+  # Desarrollo de la Visita en la Empresa - Control de Movimiento:
 
 
 
 
-## Prueba de Baja Potencia:
+## Videos de la experimentación a Baja Potencia con el Robot SCARA:
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/a136f5ed-a9bd-4eb0-9f6a-992a12d68432
   
-## Prueba con alta potencia:
+## Videos de la experimentación a alta Potencia con el Robot SCARA :
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b836c533-6242-40b3-9c35-0834e8424449
 
