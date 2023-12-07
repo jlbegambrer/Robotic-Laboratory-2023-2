@@ -33,7 +33,9 @@ El gripper que se propuso para este proyecto se muestra en las siguientes figura
 
 Descripciión, planos y fotografías del gripper diseñaado y sus piezas para el proceso de alistamiento. 
 # Modelo Robot Studio:
-Modelo en RobotStudio de la celda de ensamble con todos los elementos que intervienen en el proceso.
+
+El modelo en RobotStudio se presenta a continuación:
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/57757c36-affa-4c72-8aae-e05c77f332bb)
 
 
 # Código en RAPID:
