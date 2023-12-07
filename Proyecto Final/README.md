@@ -10,6 +10,10 @@ Integrantes del equipo:
 
 
 # Diagrama de flujo de las acciones del robot:
+En la siguiente figura se presenta la lógica de la estación del Robot:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/fd6265b0-0629-4d02-a47d-d592e81870a1)
+
 
 # Dise­ño del griper:
 El gripper que se propuso para este proyecto se muestra en las siguientes figuras, el cual se puede verificar en la carpeta llamada CAD:
@@ -31,11 +35,23 @@ Descripciión, planos y fotografías del gripper diseñaado y sus piezas para el
 # Modelo Robot Studio:
 Modelo en RobotStudio de la celda de ensamble con todos los elementos que intervienen en el proceso.
 
+
 # Código en RAPID:
-Comentado y discutido del m´odulo utilizado para el desarrollo del proyecto.
+## Rutina principal
+En la siguiente imágen se presenta los diferentes path o trayectorias del robot:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/ac885416-a82e-48b1-af23-6256ee47d7a9)
+## Primera Rutina
+En la siguiente rutina se realiza los primeros movimientos del Robots:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5adea245-1130-4b04-84d4-d6d0fe24899e)
+
+## Segunda Rutina
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/14fa14f1-ae2b-43f3-8f63-121f3901cfbc)
+
+
+
 # Videos Pruebas de simulación:
-
-
 
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5706feee-e399-45de-a366-1c5b6a419f49
