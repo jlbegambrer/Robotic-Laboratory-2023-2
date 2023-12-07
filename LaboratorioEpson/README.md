@@ -19,7 +19,10 @@ Los objetivos de esta práctica se pueden observar en la siguiente imágen:
 Para realiza el código, previamente se descargó e instaló el software para ejecutar las instrucciones  y programar el robot. 
 
 # Desarrollo de la práctica:
-Se abrió  el Software Epson RC + 7.0
+Se abrió  el Software Epson RC + 7.0 se crea  una conexión virtual y se configura el SCARA T6, posteriormente se abre un proyecto y se configura la posición de Home
+como se observa a continuación:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8081b5d0-ece0-4beb-b038-113b6fab52fd)
 
 
 
