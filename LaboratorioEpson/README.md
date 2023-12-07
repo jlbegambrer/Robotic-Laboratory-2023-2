@@ -3,7 +3,8 @@
 Integrantes del equipo:
 - Carlos Caucalí.
 - Jonathan Leonardo Begambre Rodríguez.
-  # Descripción de la Solución planteada.
+
+# Descripción de la Solución planteada.
 
 Dentro de la solución que se planteó se inició con la realización del código  antes de ir a la empresa Control de Movimiento, esto se observó en la Guía Práctica EPSON RC + 7.0 - Básica, a continuación se presenta el encabezado:
 
@@ -15,7 +16,10 @@ Los objetivos de esta práctica se pueden observar en la siguiente imágen:
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/3780b487-71e8-43c1-b4f0-f46b628454db)
 
 
-Para realiza el código, previamente se descargó e instaló el software para ejecutar las instrucciones  y programar el robot.  
+Para realiza el código, previamente se descargó e instaló el software para ejecutar las instrucciones  y programar el robot. 
+
+# Desarrollo de la práctica:
+Se abrió  el Software Epson RC + 7.0
 
 
 
