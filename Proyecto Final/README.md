@@ -13,11 +13,18 @@ Integrantes del equipo:
 
 # Dise­ño del griper:
 El gripper que se propuso para este proyecto se muestra en las siguientes figuras, el cual se puede verificar en la carpeta llamada CAD:
-![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/78e9fcb6-bda1-47db-92e4-5e55c9907898)
+## Vista superior del Gripper: 
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5851e1ab-b56b-4e6d-afe1-9ff557c7cefe)
+## Vista Lateral del Gripper:
 
-![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/3b6322a5-32ac-4f3e-a01d-9cd82c3d83db)
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/1ed72f1c-0c72-4852-be46-222c3b855c51)
 
-![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/62a3a528-a818-4674-979b-e2175159915f)
+## Vista Isométrica del Gripper: 
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/0d4dec16-508b-46c7-bb29-cb7ef9f57c14)
+
+## Gripper Principales Formas de Sujeción:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/52c021b8-d566-49eb-899e-9bcccd75ab5c)
 
 
 Descripciión, planos y fotografías del gripper diseñaado y sus piezas para el proceso de alistamiento. 
