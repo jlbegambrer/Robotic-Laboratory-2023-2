@@ -17,7 +17,7 @@ El gripper que se propuso para este proyecto se muestra en las siguientes figura
 
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/3b6322a5-32ac-4f3e-a01d-9cd82c3d83db)
 
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/62a3a528-a818-4674-979b-e2175159915f)
 
-![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8f5ab319-0adc-4463-a91b-d00920cc710d)
 
 Descripciión, planos y fotografías del gripper diseñaado y sus piezas para el proceso de alistamiento. 
