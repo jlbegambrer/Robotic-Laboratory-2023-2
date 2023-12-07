@@ -37,8 +37,22 @@ A continuación se presenta la Función de base para el movimiento del Robot, en
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b87f90f0-e6da-43da-a06a-6c87daa4a31c)
 
 
-##
-## 
+## Función Paletizado_Z
+
+En esta función de los comando pallet y jump y por medio de un ciclo for  se salta te pallet a pallet para hacer el  movimiento en zig-zag, como se puede observar a continuación:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/61d3838f-68e0-4981-9980-d5903db2be10)
+
+##  Función Paletizado_S
+En esta función se realiza el paletizado en S como se puede observar en la sigueinte figura, a diferencia de la anterior función, esta se hace de manera  discrita cada movimiento con el comando pallet:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/d057f13d-f179-48ac-a07e-7953cccdab92)
+
+## Función Paletizado_externo:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8cbfae09-9ce7-41d1-9091-0e32d4d47c61)
+
+
   #  Videos de Simulación:
 
   https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462ce-be50-4b02-b5ab-c0489dc3d3a0
