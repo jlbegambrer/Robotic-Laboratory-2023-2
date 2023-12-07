@@ -1,12 +1,15 @@
-# Robotic-Laboratory-2023-2
+# Informe Proyecto Final - Robótica
 Integrantes del equipo:
- - Carlos Andrés Caucali Chaparro
+
+- Carlos Andrés Caucali Chaparro
+- Miguel Ángel Sarmiento Cabarcas
+- Jaime Andrés Sánchez 
 - Jonathan Leonardo Begambre Rodríguez
 
-Repositorio creado para la clase de Robotica en la Unal 2023-2 en ingeniería mecatrónica.
+# Descripción de la solución:
 
 
+# Diagrama de flujo de las acciones del robot:
 
-
-
-##Dise­ño del griper 
+# Dise­ño del griper:
+Descripciión, planos y fotografías del gripper diseñaado y sus piezas para el proceso de alistamiento. 
