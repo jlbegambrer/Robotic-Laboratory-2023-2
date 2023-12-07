@@ -25,15 +25,17 @@ como se observa a continuación:
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/8081b5d0-ece0-4beb-b038-113b6fab52fd)
 
 Luego se genera las funciones de paletizado Z, paletizad S y paletizado externo como se muestra a continuación en el código:
-# Código implkementado en el Software Epson:
+# Código implementado en el Software Epson - Spel +: 
 
 ## Función principal
 En esta función se ejecuta de manera la lógica principal del algoritmo para hacer el paletizado, como puede verse en las primeras líneas de la línea 3 a la 7 se dá inicio al motor del rogot, se dá potencia al sistema y se asigna una aceleración y velocidad del robot de 30 %  y 50 % de la capacidad del robot, respectivamente. Luego se colocan una sería de condicionales para hacer llamado al paletizado base, Z, S y externo, según sea el caso: esto se puede  buscar en el archivo "Main.prg" en la carpeta denominada Códigos CapacitacionT3" de este mismo repositorio, en la sigueinte imágen observamos el apartado de la función principal: 
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/04c4b3a8-6273-4ca3-9e33-705ac0db0f2b)
 
+## Función Paletizado Base:
+A continuación se presenta la Función de base para el movimiento del Robot, en la cual se hace uso de los cimandos Go, Wait, Jump and Move, los cuales ayudan al movimiento en los eje X y Y y haciendo pausas de 0.5 del  timer.
 
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b87f90f0-e6da-43da-a06a-6c87daa4a31c)
 
-## 
 
 ##
 ## 
