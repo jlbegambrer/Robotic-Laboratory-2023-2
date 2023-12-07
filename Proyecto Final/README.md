@@ -8,6 +8,10 @@ Integrantes del equipo:
 
 # Descripción de la solución:
 
+# Video Presentación del proyecto:
+El video de la presentación Final se puede ver en el siguiente Link:
+https://youtu.be/bbCxN1kpQMI
+
 
 # Diagrama de flujo de las acciones del robot:
 En la siguiente figura se presenta la lógica de la estación del Robot:
@@ -80,8 +84,7 @@ En la siguiente rutina se realiza los primeros movimientos del Robots:
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5706feee-e399-45de-a366-1c5b6a419f49
 
-# Video Presentación del proyecto:
-El video de la presentación Final se puede ver en el siguiente Link:
-https://youtu.be/xMi6kRBnwq4
+
+
 
 
