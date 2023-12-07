@@ -49,7 +49,20 @@ En la siguiente rutina se realiza los primeros movimientos del Robots:
 ## Segunda Rutina
 ![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/14fa14f1-ae2b-43f3-8f63-121f3901cfbc)
 
+## Tercera Rutina:
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/d78c302b-3a0f-40d1-b0b8-2effff2aa66f)
 
+## Cuarta Rutina
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/0336e86c-470b-4f22-8232-bdf2bdebc226)
+
+
+## Quinta Rutina
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/80a16b78-df54-4194-8fce-71b231e5e7e7)
+
+## Sexta Rutina:
+
+![image](https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/9d7ad35a-6237-467e-b621-93d0650c5033)
 
 # Videos Pruebas de simulación:
 
