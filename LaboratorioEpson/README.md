@@ -61,8 +61,8 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/045462c
 
 
 # Desarrollo de la Visita en la Empresa - Control de Movimiento:
-Durante el desarrollo de la visita a la empresa control de Movimiento, se recibió la capacitación y apoyo de un egresado de la Unal que trabaja en dicha empresa, el cual nos enseñó las princiaples características de Robot SCARA - Epson, el cual tiene integrado los driver, microcontroladores en el Robot, lo que lo hace muy compacto y versátil; luego, se pasó a definir el espacio de trabajo del Robot, para evitar accidentes con el robot, es decir se delimitó las posiciones máximas  al cual el robot podrá moverse, esto para evitar que chocara las paredes del edificio.
-
+Durante el desarrollo de la visita a la empresa Control de Movimiento, se recibió la capacitación y apoyo de un egresado de la Unal que trabaja en dicha empresa, el cual nos enseñó las princiaples características de Robot SCARA - Epson, Robot que tiene integrado los driver, microcontroladores, lo que lo hace muy compacto y versátil en aplicaciones industriales. Luego, se pasó a definir el espacio de trabajo del tobot, para evitar accidentes con el robot, es decir se delimitó las posiciones máximas  al cual el robot podrá moverse, esto para evitar que chocara las paredes del edificio.
+Una vez se definió el espacio de trabajo, se pasó a realizar la conexión con el Robot y a realizar dos pruebas con el Robot, una se realizó a baja potencia, es decir se limitó la aceleración por debajo del 30 % y en la otra al 70 %, esto se puede ver en los siguiente videos:
 
 ## Videos de la experimentación a Baja Potencia con el Robot SCARA:
 
@@ -71,7 +71,10 @@ https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/a136f5e
 ## Videos de la experimentación a alta Potencia con el Robot SCARA :
 
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/b836c533-6242-40b3-9c35-0834e8424449
+# Conclusiones:
 
-
+De laboratorio y Visita se puede concluir los siguientes aspectos:
+- Se logró aplicar código a un robot industrial y conocer el lenguaje SPEL + para los robot Epson, con implementación de diferentes rutinas de paletizado.
+- Gracias a la visita se logró conocer aplicaciones industriales de los Robots Scara, así como el acercamiento a la industria ayudó a experimentar uso reales de los robot actualmente y el potencial de nuestra profesión. 
 
   
