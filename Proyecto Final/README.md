@@ -33,6 +33,13 @@ Modelo en RobotStudio de la celda de ensamble con todos los elementos que interv
 
 # Código en RAPID:
 Comentado y discutido del m´odulo utilizado para el desarrollo del proyecto.
+# Videos Pruebas de simulación:
+
+
+
+
+https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5706feee-e399-45de-a366-1c5b6a419f49
+
 
 # 
 Comparación del tiempo de alistamiento manual y de operación automatizada para las 4 combinaciones
