@@ -72,7 +72,10 @@ En la siguiente rutina se realiza los primeros movimientos del Robots:
 https://github.com/jlbegambrer/Robotic-Laboratory-2023-2/assets/70650382/5706feee-e399-45de-a366-1c5b6a419f49
 
 
-# 
-Comparación del tiempo de alistamiento manual y de operación automatizada para las 4 combinaciones
-seleccionadas.
+# Simulación Final
+
+# Video Presentación del proyecto:
+El video de la presentación Final se puede ver en el siguiente Link:
+https://youtu.be/xMi6kRBnwq4
+
 
